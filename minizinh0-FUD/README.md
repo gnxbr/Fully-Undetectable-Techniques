@@ -11,7 +11,7 @@ I did a test running this first version against Kaspersky Cloud Security 21.2.16
 
 ![114 encrypted files with Kaspersky running](114-encrypted-files.png)
 
-Anyway, despite the damage, I don't like to lose to AVs, so I decided to use the technique of User Imitation, which I did a [PoC Fully UnDetectable](https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/user-imitating) some days ago, to make a FUD Ransomware called "minizinh0-FUD". I got the core idea from Tim's paper and created my version using my minizinh0 "non-FUD" as a template. The result was a success! I was able to encrypt the filesystem under the nose of the Antivirus (heh).
+Anyway, despite the damage, I don't like to lose to AVs, so I decided to use the technique of User Imitation, which I did a [PoC Fully UnDetectable](https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/user-imitation) some days ago, to make a FUD Ransomware called "minizinh0-FUD". I got the core idea from Tim's paper and created my version using my minizinh0 "non-FUD" as a template. The result was a success! I was able to encrypt the filesystem under the nose of the Antivirus (heh).
 
 Because I think we'll see something like this being used in the wild soon, **I decided to release the PoC before the criminal minds start using, so the good guys will have time to think about solutions.**
 
