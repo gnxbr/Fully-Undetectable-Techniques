@@ -19,7 +19,7 @@ I didn't implement most of the real features of a Ransomware, like deleting shad
 
 ### How it works
 
-minizinh0-FUD works on a hidden secondary desktop. It takes the path of the current user, and starts walking X levels (configurable) in-depth, looking for files with extensions that are on the list: docx|pdf|xlsx|pptx|ppsx|kdbx|sqlite|zip|rar|jpg|png|html|htm. When a target file is found, the ransomware copies it (simulating the user) to %TEMP%\temp.png, opens it (ReadFile), encrypts it and saves (WriteFile) to %TEMP%\temp.mp3. Next, it moves (simulating the user) the file temp.mp3 (target file encrypted) to the Original Path + .mat extension (e.g., C:\important-file.db.mat), creates a Ransom Note in the directory with the echo command, and go to the next one.
+minizinh0-FUD works on a hidden secondary desktop. It takes the path of the current user, and starts walking X levels (configurable) in-depth, looking for files with extensions that are on the list: docx|pdf|xlsx|pptx|ppsx|kdbx|sqlite|zip|rar|jpg|png|html|htm. When a target file is found, the ransomware moves it (simulating the user) to %TEMP%\temp.png, opens it (ReadFile), encrypts it and saves (WriteFile) to %TEMP%\temp.mp3. Next, it moves (simulating the user) the file temp.mp3 (target file encrypted) to the Original Path + .mat extension (e.g., C:\important-file.db.mat), creates a Ransom Note in the directory with the echo command, and go to the next one.
 
 I'm encrypting the Key and IV of AES-CBC 128-bit with my RSA Public Key 2048-bit. I use the same Key/IV for all files. By decrypting it, the victim can recover their files.
 
