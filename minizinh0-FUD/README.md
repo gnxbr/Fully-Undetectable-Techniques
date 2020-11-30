@@ -31,7 +31,7 @@ Ignore the debugging messages.
 
 [PoC Video against Kaspersky](https://youtu.be/2a4wEv9FcmA)
 
-[PoC Video against ESET](https://youtu.be/oB7jzwjaJfc)
+[PoC Video against ESET](https://youtu.be/JBFmOi4_G0M)
 
 ### My Ransom Note (in pt-br)
 
