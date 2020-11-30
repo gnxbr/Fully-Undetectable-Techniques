@@ -30,6 +30,7 @@ One of the disadvantages of minizinh0-FUD, is that the process of encrypting eac
 Ignore the debugging messages.
 
 [PoC Video against Kaspersky](https://youtu.be/2a4wEv9FcmA)
+
 [PoC Video against ESET](https://youtu.be/oB7jzwjaJfc)
 
 ### My Ransom Note (in pt-br)
