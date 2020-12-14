@@ -39,7 +39,7 @@ def help():
 	print("\t[kill!] or <CTRL+C> to kill the victim's side\n")
 	print("\tP.S.: some commands can take more than 1 second")
 	print("\tto generate its output, so you will need to")
-	print("\twait for a while and type [readout!] to get the output\n")
+	print("\twait for a while and type [readout!] to get the response\n")
 
 def menu():
 	opt = 0
