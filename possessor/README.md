@@ -56,16 +56,23 @@ When you use *copy* or *move*, the cmd.exe is configured by default to overwrite
 ... **or** split into multiple lines, like:
 
 [**script.ps1 line1 with its content**]
+
 [**script.ps1 line2 with its content**]
+
 [**script.ps1 line3 with its content**]
 
 **Other Commands:**
 
 [**change**]: back to the options menu.
+
 [**readout!**]: if the command sent took more than 1 second to generate the output, you will need to send [**readout!**] to get the response.
+
 [**kill!**] or <CTRL+C>: kills the target side, closing the opened windows (Explorer, Powershell and cmd) and stop running.
+
 [**quit!**]: close the attacker side, but the target will keep running, and unless you have another malicious binary running to control the machine, you cannot recover the connection.
+
 [**help**]: show the help menu.
+
 [**clear**]: clean the attacker's screen.
 
 ### Source
