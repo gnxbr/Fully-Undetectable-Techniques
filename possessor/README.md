@@ -5,7 +5,7 @@
 
 ### Introduction
 
-Continuing with my User Imitation's Saga, I create a tool called "Possessor", which can be used to impersonate a user through connect back, and send commands to the target machine as if you were them! Currently, you have three options: either send commands to **powershell** or **cmd**, or **write files** directly in the *%TEMP%* folder. You can easily switch the option on the fly, as can be seen in the [Demo](#demo).
+Continuing with my User Imitation's Saga, I created a tool called "Possessor", which can be used to impersonate a user through connect back, and send commands to the target machine as if you were them! Currently, you have three options: either send commands to **powershell** or **cmd**, or **write files** directly in the *%TEMP%* folder. You can easily switch the option on the fly, as can be seen in the [Demo](#demo).
 
 As you are executing commands simulating the user, the Antivirus won't bother you.
 
