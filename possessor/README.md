@@ -91,6 +91,7 @@ If you wanna talk more about these techniques, get in touch:
 * **Telegram:** [@gnxbr](https://t.me/gnxbr)
 * **Twitter:** [@alissonbertochi](https://twitter.com/alissonbertochi)
 * **E-mail:** alisson[at]bertochi[.]com[.]br
+* **Linkedin:** [https://www.linkedin.com/in/gnxbr/](https://www.linkedin.com/in/gnxbr/)
 
 ### Greetz
 
