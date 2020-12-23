@@ -19,7 +19,8 @@ This tool can be useful for Red Team Operations and Pentesting.
 
 To compile:
 ```
-Before compile, change the word "Explorador" (that is in Portuguese) to the title of the window of explorer.exe in your system's language.
+Before compile, change the word "Explorador" (that is in Portuguese) to the title of the window of
+explorer.exe in your system's language.
 
 gcc -c base64.c
 gcc possessor.c -o possessor.exe base64.o -l ws2_32
