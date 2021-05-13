@@ -33,6 +33,8 @@ Ignore the debugging messages.
 
 [PoC Video against ESET](https://youtu.be/JBFmOi4_G0M)
 
+**May 11:** Tested against Crowdstrike EDR, was not detected!
+
 ### My Ransom Note (in pt-br)
 
 ![Ransom Note](ransom_note.png)
