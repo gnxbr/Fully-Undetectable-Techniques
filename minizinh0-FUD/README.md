@@ -47,7 +47,7 @@ Use it to think about solutions in how to defeat this very cool technique!
 
 ### Get in touch
 
-If you wanna talk more about these techniques, get in touch via IRC (gnx @ freenode), Telegram (@gnxbr) or e-mail (alisson[at]bertochi[.]com[.]br). Follow me on Twitter: [@alissonbertochi](https://twitter.com/alissonbertochi)! :)
+If you wanna talk more about these techniques, get in touch via IRC (gnx @ Libera.Chat), Telegram (@gnxbr) or e-mail (alisson[at]bertochi[.]com[.]br). Follow me on Twitter: [@alissonbertochi](https://twitter.com/alissonbertochi)! :)
 
 
 
