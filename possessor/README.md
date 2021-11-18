@@ -90,7 +90,6 @@ Well, it was written in C, so you can expect some bugs, surely. Contact me if yo
 
 If you wanna talk more about these techniques, get in touch:
 
-* **IRC:** gnx @ Libera.Chat
 * **Telegram:** [@gnxbr](https://t.me/gnxbr)
 * **Twitter:** [@alissonbertochi](https://twitter.com/alissonbertochi)
 * **E-mail:** alisson[at]bertochi[.]com[.]br
