@@ -1,6 +1,6 @@
 /*
 		Possessor - Target Side
-		by gnx @ freenode
+		by gnx
 		twitter.com/alissonbertochi
 		
 		https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/possessor
