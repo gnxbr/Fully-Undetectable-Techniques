@@ -1,7 +1,7 @@
 
 /* 
 	minizinh0-FUD - A Fully UnDetectable Ransomware
-	by gnx @ freenode
+	by gnx
 	twitter.com/alissonbertochi
 	
 	https://github.com/gnxbr/Fully-Undetectable-Techniques/tree/main/minizinh0-FUD
