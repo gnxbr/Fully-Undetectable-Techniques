@@ -33,7 +33,11 @@ Ignore the debugging messages.
 
 [PoC Video against ESET](https://youtu.be/JBFmOi4_G0M)
 
-**May 11:** Tested against Crowdstrike EDR, was not detected!
+**May 2021**: Tested against CrowdStrike EDR — it was not detected and didn't even generate telemetry.
+
+**August 2025**: Tested again against CrowdStrike — still not detected, even with the policy set to "Extra Aggressive" and all options enabled.
+
+**August 2025**: Tested against SentinelOne EDR — it is only detected when the "Detect Interactive Threat" option is enabled. The cmd.exe process running in the hidden desktop is killed, but the binary responsible for orchestrating the execution is not identified. This means it could be executed again as many times as needed, and if the execution is done in stages/batches (encrypting fewer than ~600 files each time), I believe the objective could be achieved without EDR interference.
 
 ### My Ransom Note (in pt-br)
 
